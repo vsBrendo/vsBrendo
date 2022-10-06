@@ -1,13 +1,9 @@
-### Bem-Vindo ao meu perfil!!!
+### Hi There :wave:
 
-<h3> Atualmente dsaidsauihdsuahdusahdusahdas<h3>
+<h4> Passionate about technology, reading and logic games. </h4>
 
-<h4> Tecnologias </h4>
-  
-  <h4> Back-End </h4>
-<img height="70" width="70" style="max-width:100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
- 
-  ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white)
-  
-  <h4> Others </h4>
-<img height="70" width="70" style="max-width:100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+### :wrench: Technologies
+
+![Java](https://img.shields.io/badge/Java-red.svg?style=for-the-badge&logo=Java&logoColor=blue)
+
+<img heigth="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
