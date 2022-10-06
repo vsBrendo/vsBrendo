@@ -4,6 +4,6 @@
 
 ### :wrench: Technologies
 
-![Java](https://img.shields.io/badge/Java-red.svg?style=for-the-badge&logo=Java&logoColor=blue)
-
-<img heigth="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) <br>
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) <br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) <br>
