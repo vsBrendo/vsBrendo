@@ -4,6 +4,8 @@
 
 ### :wrench: Technologies
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) <br>
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) <br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) <br>
+<section display="block-inline">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</section>
