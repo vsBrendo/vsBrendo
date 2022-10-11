@@ -9,4 +9,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23E34F26)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 
