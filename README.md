@@ -9,6 +9,4 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23E34F26)
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=brendosv&show_icons=true&theme=cobalt)
-
-
+![GitHub](https://github-readme-stats.vercel.app/api?username=vsbrendo&show_icons=true&theme=cobalt)
