@@ -12,7 +12,8 @@
 <section display="flex">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vsBrendo&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsBrendo&layout=compact&theme=cobalt)](https://github.com/vsBrendo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsBrendo&layout=compact)](https://github.com/vsBrendo/github-readme-stats)
+
 
 </section>
 
