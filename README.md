@@ -13,13 +13,10 @@
 ![c#](https://img.shields.io/badge/csharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=%23E34F26)
 ![dotnet](https://img.shields.io/badge/dotnet-%2320232a.svg?style=for-the-badge&logo=dotnet&logoColor=blue)
 
-<img width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-<img width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
-<img width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-<img width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-<img width="80px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
-
+<div display="inline-block">
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+</div>
 
 
 
