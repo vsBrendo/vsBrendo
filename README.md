@@ -4,10 +4,8 @@
 
 ### :wrench: Technologies
 
-![c#](https://img.shields.io/badge/c%23-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%2320232a.svg?style=for-the-badge&logo=.NET&logoColor=white)
-![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-294380.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-294380.svg?style=for-the-badge&logo=.NET&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-cc3e18.svg?style=for-the-badge&logo=GIT&logoColor=white)
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=vsbrendo&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsbrendo&theme=cobalt)](https://github.com/vsbrendo/github-readme-stats)
-
+![GitHub](https://github-readme-stats.vercel.app/api?username=vsBrendo&show_icons=true&theme=cobalt)
