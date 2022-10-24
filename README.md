@@ -1,8 +1,8 @@
 ### Olá, prazer :wave:
 
-<h4> Apaixonado por tecnologia, leitura e jogos lógicos. :zap: </h4>
+<h4> Apaixonado por tecnologia, leitura e jogos lógicos :zap: </h4>
 
-### :wrench: Technologies
+### :wrench: Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23363636.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-%23363636.svg?style=for-the-badge&logo=HTML5&logoColor=%23E34F26)
