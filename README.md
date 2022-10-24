@@ -1,11 +1,12 @@
-### Hi There :wave:
+### Olá, prazer :wave:
 
-<h4> Passionate about technology, reading and logic games. :zap: </h4>
+<h4> Apaixonado por tecnologia, leitura e jogos lógicos. :zap: </h4>
 
 ### :wrench: Technologies
 
-![C#](https://img.shields.io/badge/C%23-294380.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-294380.svg?style=for-the-badge&logo=.NET&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-cc3e18.svg?style=for-the-badge&logo=GIT&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23363636.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-%23363636.svg?style=for-the-badge&logo=HTML5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-%23363636.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![GIT](https://img.shields.io/badge/GIT-%23363636.svg?style=for-the-badge&logo=GIT&logoColor=%23E34F26)
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=vsBrendo&show_icons=true&theme=cobalt)
