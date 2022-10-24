@@ -1,4 +1,4 @@
-### Olá, prazer :wave:
+### Bem-vindo :wave:
 
 <h4> Apaixonado por tecnologia, leitura e jogos lógicos :zap: </h4>
 
