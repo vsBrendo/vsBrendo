@@ -2,9 +2,9 @@
 
 <h4> Passionate about technology, reading and logic games :fire: </h4>
 
-### :zap: Technologies
+### Technologies :zap:
 
-![JAVA](https://img.shields.io/badge/JAVA-%2320232a.svg?style=for-the-badge&logo=JAVA&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&logo=HTML5&logoColor=%20ci)
 ![CSS3](https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=007CFF)
 ![GIT](https://img.shields.io/badge/GIT-%2320232a.svg?style=for-the-badge&logo=GIT&logoColor=%20ci)
