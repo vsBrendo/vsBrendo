@@ -4,9 +4,11 @@
 
 ### Technologies :zap:
 
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&logo=HTML5&logoColor=%20ci)
-![CSS3](https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=007CFF)
-![GIT](https://img.shields.io/badge/GIT-%2320232a.svg?style=for-the-badge&logo=GIT&logoColor=%20ci)
+<section display="inline-block">
+<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+</section>
+<br>
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=breendo&show_icons=true&theme=cobalt)
