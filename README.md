@@ -4,14 +4,7 @@
 
 ### Technologies :zap:
 
-<div display="inline-block">
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-</div>
-
-<br>
+![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-%2320232a.svg?style=for-the-badge&logo=GIT&logoColor=%20ci)
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=breendo&show_icons=true&theme=cobalt)
