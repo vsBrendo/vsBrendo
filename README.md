@@ -9,6 +9,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='35' width='40' alt="git icon">
  </div>
  
+ ![C#](https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+ ![.Net](https://img.shields.io/badge/.NET-%23000000?style=for-the-badge&logo=.net&logoColor=white)
+ ![SQLite](https://img.shields.io/badge/sqlite-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+ 
 <hr>
 
 <p align="center">
