@@ -2,7 +2,9 @@
 
 ### Hello There :wave: 
 
-<h4> Passionate about technology, reading and logic games :fire: </h4>
+<h4> Passionate about technology, reading and logic games :fire: <br>
+
+Desde infância sempre fui apaixonado por jogos lógico e principalmente por jogos RTS como:  Warcraft e Starcraft. Ao longo do tempo pesquisei afundo sobre as tecnologias, sobre o desenvolvimento do game. Por minha curiosidade não sabia que futuramente essa pesquisa por desenvolvimento me tornaria o que sou hoje - Programador. </h4>
 
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
