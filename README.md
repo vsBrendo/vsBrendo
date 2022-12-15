@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/brendoviegasy)
 
-<p>Desde minha infância amava jogar, principalmente RTS: Warcraft e Starcraft. Ao descobrir sobre mod mais famoso da época (dotA), fiquei totalmente encantado com novo estilo de jogo, chamado MOBA. Ao longo do tempo pesquisando sobre o desenvolvimento do jogo e o mod, aquela pesquisa estava virando mais que hobby, mas sim uma carreira em minha vida :heart:</p>
+<p>Desde minha infância amava jogar, principalmente RTS: Warcraft e Starcraft. Ao descobrir sobre mod mais famoso da época (dotA), fiquei totalmente encantado com novo estilo de jogo, chamado MOBA. Ao longo do tempo pesquisando sobre o desenvolvimento do jogo e o mod. Aquela pesquisa estava virando mais que hobby, mas sim uma carreira em minha vida :heart:</p>
 
 <p>Simples jogo da época pode te levar a muitos questionando e também caminhos. Atualmente sou estudante de análise e desenvolvimento de sistemas, desde 2022. Estou sempre disposto aprender uma nova tecnologia e com foco totalmente em backend :wrench:</p>
 
