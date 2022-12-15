@@ -1,15 +1,11 @@
 ## Hello There :wave: 
 
+### Sobre :man_technologist:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/brendoviegasy)
 
-### Sobre :man_technologist:
+<p>Desde minha infância amava jogar, principalmente RTS: Warcraft e Starcraft. Ao descobrir sobre mod mais famoso da época (dotA), fiquei totalmente encantado com novo estilo de jogo, chamado MOBA. Ao longo do tempo pesquisando sobre o desenvolvimento do jogo e o mod, aquela pesquisa estava virando mais que hobby, mas sim uma carreira em minha vida.</p>
 
-<p>Estudante de Análise e Desenvolvimento de sistemas, desde 2022. Sou amante de jogos lógicos e apaixonado por tecnologias.<br>
-Desde minha infância sempre amei jogar jogos lógicos e principalmente jogos RTS: Warcaft e Stacraft. Ao longo do tempo<br>
-pesquisando sobre desenvolvimento de jogos, me deparei com hobby que jamais pensaria em tornar uma carreira. <br>
-<br>
-Atualmente desempenho com foco em backend. A cada dia aprendendo mais um pouco sobre esse mundo enorme da programação. Tenho conhecimentos
-em poucas tecnologias, mas sempre disposto aprender conhecimentos.</p>
+<p>Simples jogo da época pode te levar a muitos questionando e também caminhos. Atualmente sou estudante de análise e desenvolvimento de sistemas, desde 2022. Estou sempre disposto aprender uma nova tecnologia e com foco totalmente em backend.</p>
 
 ### Tecnologias
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
